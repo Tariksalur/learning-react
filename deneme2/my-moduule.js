@@ -1,6 +1,6 @@
- const hello = (name) => {
-    console.log("hello "+ name );
+const hello = (name) => {
+  console.log("hello " + name);
 };
- const topla = (a , b) => a - b;
+const topla = (a, b) => a - b;
 
 export { hello, cikart };
